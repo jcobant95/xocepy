@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/kanit/v15/nKKU-Go6G5tXcr5mOCWg.ttf) format('truetype');
+}
